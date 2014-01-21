@@ -17,6 +17,7 @@ public class Lenguajes {
      */
     public static void main(String[] args) {
        System.out.println("Lenguajes de programación Orientados a Objetos enero 2014, BIENVENIDOS!!");
+        System.out.println("Bienbenidos al cuurso de lenguajes");
     }
     
 }
